@@ -1,3 +1,8 @@
+# app_basis : Ruby on Rails Tutorial
+
+This is a application with limited function such that it could be basis of all kind of web application ;-) 
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
